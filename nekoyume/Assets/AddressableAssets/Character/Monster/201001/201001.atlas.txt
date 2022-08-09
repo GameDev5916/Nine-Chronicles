@@ -1,0 +1,48 @@
+
+201001.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+acc_01
+  rotate: true
+  xy: 2, 3
+  size: 55, 50
+  orig: 55, 50
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 60
+  size: 70, 64
+  orig: 70, 64
+  offset: 0, 0
+  index: -1
+eye_01
+  rotate: true
+  xy: 102, 6
+  size: 29, 17
+  orig: 29, 17
+  offset: 0, 0
+  index: -1
+eye_02
+  rotate: true
+  xy: 54, 29
+  size: 29, 18
+  orig: 29, 18
+  offset: 0, 0
+  index: -1
+eye_03
+  rotate: true
+  xy: 74, 2
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 74, 37
+  size: 87, 46
+  orig: 87, 46
+  offset: 0, 0
+  index: -1
